@@ -3,7 +3,7 @@ import { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://portfolio-2026-topaz-alpha.vercel.app",
+      url: "https://mohammedawaiz-2026.vercel.app/",
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 1,

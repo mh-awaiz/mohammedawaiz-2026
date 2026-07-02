@@ -15,7 +15,7 @@ const spaceGrotesk = Space_Grotesk({
   display: "swap",
 });
 
-const siteUrl = "https://portfolio-2026-topaz-alpha.vercel.app";
+const siteUrl = "https://mohammedawaiz-2026.vercel.app/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

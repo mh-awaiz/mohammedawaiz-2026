@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://portfolio-2026-topaz-alpha.vercel.app/sitemap.xml",
+    sitemap: "https://mohammedawaiz-2026.vercel.app/sitemap.xml",
   };
 }
