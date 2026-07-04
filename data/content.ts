@@ -69,15 +69,6 @@ export const projects: Project[] = [
     image: "/projects/maysour.png",
   },
   {
-    name: "The Destination Planners",
-    category: "Travel",
-    description:
-      "A travel agency site with custom package browsing, destination discovery, and WhatsApp-first enquiry flow.",
-    stack: ["React.js", "Tailwind", "Framer Motion"],
-    url: "https://destination-planner-one.vercel.app/",
-    image: "/projects/destinationplanners.png",
-  },
-  {
     name: "TRS — The Robotics Society, JMI",
     category: "Institutional",
     description:
@@ -85,6 +76,15 @@ export const projects: Project[] = [
     stack: ["React.js", "Tailwind CSS", "Framer Motion"],
     url: "https://official-trs-website.vercel.app/",
     image: "/projects/trs.png",
+  },
+  {
+    name: "The Destination Planners",
+    category: "Travel",
+    description:
+      "A travel agency site with custom package browsing, destination discovery, and WhatsApp-first enquiry flow.",
+    stack: ["React.js", "Tailwind", "Framer Motion"],
+    url: "https://destination-planner-one.vercel.app/",
+    image: "/projects/destinationplanners.png",
   },
 ];
 
